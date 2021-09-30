@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that helps organize and make available all the world's information (that's not JUST a Google thing).
+I am a person that helps organize and make available all the world's information (I don't think that's JUST a Google thing).
